@@ -29,6 +29,8 @@ And Upadate From OTA
 
 If your device does not support, please change SMBIOS to 2017 or Newer, adjust to the one that is close to the specifications of your device
 *USE opencore configurator
+![Screen Shot 2022-06-09 at 22 34 53](https://user-images.githubusercontent.com/38489058/172891663-a846fa3b-06f1-4939-89c7-5612f9dc0755.png)
+
 
 thank you
 good luck :)
