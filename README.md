@@ -3,7 +3,6 @@ Successfully install Hackintosh macOs Ventura 13.0 on Msi Modern 14 B10Mw
 ****Bug WIFI******* disable WIFI!!!
 ![Screen Shot 2022-06-09 at 19 34 36](https://user-images.githubusercontent.com/38489058/172849644-190216c4-b13f-47ec-a072-88c95a29878a.png)
 
-Disable boot-args : -lilubetaall keepsyms=1 debug=0x100
 ![Screen Shot 2022-06-09 at 22 20 45](https://user-images.githubusercontent.com/38489058/172883826-d2370aab-aa01-4125-b731-f0f9875b7d43.png)
 
 Before Update :
@@ -14,7 +13,7 @@ Update all Kext
 
 Next....
 
-Disable boot-args : -lilubetaall keepsyms=1 debug=0x100 
+**Boot-args : -lilubetaall keepsyms=1 debug=0x100 **-lilubetaall
 
 
 Edit Your Config.plist
