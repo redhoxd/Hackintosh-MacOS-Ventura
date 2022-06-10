@@ -13,7 +13,7 @@ Update all Kext
 
 Next....
 
-**Boot-args : -lilubetaall keepsyms=1 debug=0x100 **-lilubetaall
+**Boot-args : -lilubetaall keepsyms=1 debug=0x100 
 
 
 Edit Your Config.plist
