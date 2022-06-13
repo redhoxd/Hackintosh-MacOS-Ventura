@@ -1,6 +1,7 @@
 # Hackintosh-MacOS-Ventura
 Successfully install Hackintosh macOs Ventura 13.0 on Msi Modern 14 B10Mw
-****Bug WIFI******* disable WIFI!!!
+Update. 13-Juni-2022
+WIFI Fixed Use Intel Wifi + Airportltl.kext 
 ![Screen Shot 2022-06-09 at 19 34 36](https://user-images.githubusercontent.com/38489058/172849644-190216c4-b13f-47ec-a072-88c95a29878a.png)
 
 ![Screen Shot 2022-06-09 at 22 20 45](https://user-images.githubusercontent.com/38489058/172883826-d2370aab-aa01-4125-b731-f0f9875b7d43.png)
