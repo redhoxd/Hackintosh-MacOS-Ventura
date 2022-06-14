@@ -1,8 +1,8 @@
 # Hackintosh-MacOS-Ventura
 Successfully install Hackintosh macOs Ventura 13.0 on Msi Modern 14 B10Mw.
 **********************************************
-Update. 13-Juni-2022
-WIFI Fixed Use Intel Wifi + Airportltl.kext 
+**Update. 13-Juni-2022
+WIFI Fixed Use Intel Wifi + Airportltlwm.kext 
 **********************************************
 ![Screen Shot 2022-06-09 at 19 34 36](https://user-images.githubusercontent.com/38489058/172849644-190216c4-b13f-47ec-a072-88c95a29878a.png)
 
@@ -27,7 +27,7 @@ Booter-Quirks = *****AvoidRuntimeDefrag Set=NO *****
 **********************************************
 Update MacOS Monterey 14.4 to MacOS Ventura 13.0 Beta
 Downlaod Beta Profile
-And Upadate From OTA
+And Update From OTA
 **********************************************
 
 **********************************************
