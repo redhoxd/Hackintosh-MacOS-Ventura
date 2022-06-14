@@ -1,4 +1,15 @@
 # Hackintosh-MacOS-Ventura
+**********************************************
+EFI FOR = 
+**********************************************
+MSI Modern 14 B10MW-278ID 
+*Intel Core i3-1011U
+*8 GB DDR4
+*512 GB SSD
+*WiFi, Bluetooth, Webcam
+*Intel® UHD Graphics
+*14.0-inch Full HD IPS, 60Hz
+
 Successfully install Hackintosh macOs Ventura 13.0 on Msi Modern 14 B10Mw.
 **********************************************
 **Update. 13-Juni-2022
