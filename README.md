@@ -1,6 +1,6 @@
 # Hackintosh-MacOS-Ventura
 **********************************************
-DOWNLOAD EFI ?
+DOWNLOAD EFI ? msi modern 14
 https://www.pointweb.my.id/2023/03/download-efi-macos-ventura-msi-modern-14.html
 
 Successfully install Hackintosh macOs Ventura 13.0 on Msi Modern 14 B10Mw.
